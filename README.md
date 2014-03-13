@@ -1,4 +1,4 @@
 orangered
 =========
 
-Menu bar notification for reddit messages
+OS X Menu bar notification for reddit messages
